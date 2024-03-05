@@ -16,7 +16,7 @@ padding: 24px 0;
 }
 
 .cabecalho-imagem{
-width: 175%;
+width: 250%;
 }
 
 .cabecalho-lista-item{
@@ -66,4 +66,15 @@ width: 50%;
 .estudante-todos{
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%;
+}
+
+.rodape{
+    background-color: black;
+    text-align: center;
+}
+
+.rodape-imagem{
+    height: 80px;
+    padding: 10px 0px;
+
 }
